@@ -1,0 +1,65 @@
+- title: Git and the Command Line
+  phase: 1
+  date: 2022-05-16
+  project_name: git_it
+  code_demo:
+  published: false
+- title: HTML
+  phase: 1
+  date: 2022-05-17
+  project_name: html_small_business
+  code_demo: html-bears
+  published: false
+- title: CSS Basics
+  phase: 1
+  date: 2022-05-18
+  project_name: css_dog_adoption
+  code_demo:
+  published: false
+- title: CSS Layout
+  phase: 1
+  date: 2022-05-19
+  project_name: css_dog_adoption
+  code_demo: css-flexbox
+  published: false
+- title: JavaScript Basics
+  phase: 1
+  date: 2022-05-23
+  project_name: js_calculator
+  code_demo:
+  published: false
+- title: JavaScript Loops & Functions
+  phase: 1
+  date: 2022-05-24
+  project_name: js_calculator_2
+  code_demo: radius_example_codepen
+  published: false
+- title: JavaScript Arrays
+  phase: 1
+  date: 2022-05-25
+  project_name:
+  code_demo:
+  published: false
+- title: JS & the DOM
+  phase: 1
+  date: 2022-05-26
+  project_name:
+  code_demo:
+  published: false
+- title: JavaScript Objects
+  phase: 1
+  date: 2022-05-31
+  project_name:
+  code_demo:
+  published: false
+- title: AJAX & APIs
+  phase: 1
+  date: 2022-06-01
+  project_name:
+  code_demo:
+  published: false
+- title: JS and Forms
+  phase: 1
+  date: 2022-06-06
+  project_name:
+  code_demo:
