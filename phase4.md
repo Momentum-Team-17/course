@@ -6,6 +6,7 @@ has_children: true
 has_toc: true
 toc_ol: true
 nav_order: 7
+nav_exclude: true
 ---
 
 # Agile Development

@@ -69,6 +69,29 @@ summary {
   }
 }
 
+// buttons overrides
+
+.btn-primary {
+  @include btn-color($white, $btn-primary-color);
+}
+
+.btn-purple {
+  @include btn-color($white, $brand-violet);
+}
+
+.btn-blue {
+  @include btn-color($white, $brand-royal-blue);
+}
+
+.btn-green {
+  @include btn-color($white, $brand-branch-green);
+}
+
+.btn-red {
+  @include btn-color($white, $brand-ruby-red);
+}
+
+
 // momentum styles
 .team-name {
   padding-right: 20px;
@@ -233,4 +256,11 @@ strong {
   border-radius: 3px;
   background-color: lighten($brand-violet, 40%);
   padding: 16px 16px 16px 12px;
+}
+
+.community-standards {
+  h3, h4, h5, h6 {
+    color: darken($brand-branch-green, 2)
+    // color: $brand-violet;
+  }
 }

@@ -11,9 +11,9 @@ description: >-
 
 All meetings happen on Zoom. When your team isn't meeting with your instructor, you're welcome to use the room to work together.
 
-[Link to Zoom Team Meeting]({{ site.zoom_link }}){: .btn .btn-green}
-
-[Link to Zoom Co-Working]({{ site.zoom_coworking_link }}){:.btn .btn-purple}
+[Link to Zoom Back-End Team]({{ site.zoom_link_be }}){: .btn .btn-green}  
+[Link to Zoom Front-End Team]({{ site.zoom_link_fe }}){: .btn .btn-red}  
+[Link to Zoom Co-Working]({{ site.zoom_link_coworking }}){:.btn .btn-purple}  
 
 ## GitHub
 
@@ -29,19 +29,21 @@ All meetings happen on Zoom. When your team isn't meeting with your instructor, 
 : **POST**{: .label .post-label}is a link to any supplemental info from your instructor. There may not be one every day.
 - **Phases > Topics**: Detailed context, project, and reference information about a curriculum topic. These are added daily.
 - **References**: A big list of links to documentation, code, articles, and other material you will need to learn and do the projects, organized by topic.
-- **Weekly Schedule**: A visual of meeting and project times throughout the week.
 - **Help & Info**: This page.
 - **Search Bar**: (header) Search site content by keyword.
 
-## General References
+## Community Standards & Tools
+
+- [Momentum Community Standards]({% link community_standards.md %})
+- [Momentum Community Slack Guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
+- [Tutorial on Using Slack](https://slack.com/references/using-slack/slack-tutorials)
+
+## Foundations & Tips for Learning
 
 - [Foundations Course on Thinkific](https://thinkific.momentumlearn.com/)
-- [Momentum Community Guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
 - [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
-- [Tutorial on Using Slack](https://slack.com/references/using-slack/slack-tutorials)
-- [Momentum Community Slack Guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
 
 ## Course Topic Outline
 

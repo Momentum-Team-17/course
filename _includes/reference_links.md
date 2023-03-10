@@ -24,7 +24,6 @@
 [time]: {% link references/tools.md %}#time-management
 [git-collab]: {% link references/git-and-cli.md %}#advanced-git
 
-
 <!-- phase 3 django -->
 [advanced-databases]: {% link references/py-django.md %}#advanced-databases
 [intro-apis]: {% link references/drf.md %}#intro-to-rest-apis

@@ -21,14 +21,15 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache", 
 enable_copy_code_button: true
 
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
-title: Momentum Team X Course Site
-team_name: "Team X"
-url: 'https://momentum-team-X.github.io'
+title: Momentum Team 17 Course Site
+team_name: "Team 17"
+url: 'https://momentum-team-17.github.io'
 team_github_org: &github_org
-    'https://github.com/momentum-team-X'
-team_notes_repo: 'https://github.com/momentum-team-X/notes'
-zoom_link: 'https://us02web.zoom.us/j/81070622688'
-zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
+    'https://github.com/momentum-team-17'
+team_notes_repo: 'https://github.com/momentum-team-17/notes'
+zoom_link_be: 'https://us02web.zoom.us/j/89451654454'
+zoom_link_fe: 'https://us02web.zoom.us/j/81070622688'
+zoom_link_coworking: 'https://us02web.zoom.us/j/705824048'
 
 # content settings
 # these are used in references/computer-setup-apple-silicon.md and references/computer-setup-intel.md
@@ -43,7 +44,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  "Team X on GitHub":
+  "Team 17 on GitHub":
     - *github_org
 aux_links_new_tab: true
 back_to_top: true
