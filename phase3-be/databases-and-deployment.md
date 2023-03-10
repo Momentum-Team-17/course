@@ -5,7 +5,7 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 1
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -13,13 +13,6 @@ published: false
 - Using [PostgreSQL](https://www.postgresql.org/) with Django
 - Deploying Django applications to [Render](https://www.render.com/)
 
-## 📓 Set your learning objectives
-
-Please record your answer to these prompts in writing or video/audio. This is for you and does not need to be submitted.
-
-- The thing about Django that I still don't get is...
-- What I need to understand better about using the database with Django is...
-- What would make today's meeting most useful to me is...
 
 ## 🏗️ Project: Habit Tracker
 

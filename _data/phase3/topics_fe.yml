@@ -1,11 +1,11 @@
 - title: The Modern JS Landscape
   tag: fe
   phase: 3
-  date: 2023-01-17
+  date: 2023-03-13
   page: phase3-fe/modern-js.md
-  post_today: false
+  post_today: true
   project_name: js_exercism
-  published: false
+  published: true
 - title: Hello React World
   tag: fe
   phase: 3

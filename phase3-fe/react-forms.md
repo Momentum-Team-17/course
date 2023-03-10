@@ -16,7 +16,7 @@ published: false
 
 ## 🏗️ Collaborative Project
 
-Today we begin the project we'll work on for the rest of the phase. Read [today's post]({% link news.md %}) for more details.
+Today we begin the project we'll work on for the rest of the phase. Read [today's post]({% link posts.md %}) for more details.
 
 Meet with your teammates and plan the team project. You should have detailed wireframes, an idea of user flow (how your user interacts with your UI), and a plan for components done by tomorrow.
 

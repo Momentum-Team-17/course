@@ -16,7 +16,7 @@ published: false
 
 ## 🏗️ Collaborative Project
 
-Today we begin the project we'll work on for the rest of the phase. Read [today's post]({% link news.md %}) for more details.
+Today we begin the project we'll work on for the rest of the phase. Read [today's post]({% link posts.md %}) for more details.
 
 Meet with your team and work on your plan. Today, plan out your **models**. You should draw an ER diagram for your models. Think about what fields you need for your models (the Django Model Field Reference may be helpful). What are the relationships your models will need to have with each other?
 

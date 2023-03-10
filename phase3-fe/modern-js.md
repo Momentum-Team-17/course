@@ -5,12 +5,11 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 1
-published: false
-post_today: true
+published: true
 ---
 
 
-## Objectives
+## 🎯 Objectives
 
 - Return to JavaScript!
 - The modern JavaScript ecosystem
@@ -28,7 +27,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, a
     - [Part 1: Organizing your Front-End Codebase in a Django Project](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/client-server-architectures/)
     - ⭐[Part 2: A Crash Course in Modern JavaScript Tooling](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/javascript-tooling/)
 
-## 🎯 To Do
+## ✅ To Do
 
 1. Review the code in [JavaScript You Need to Know for React]({{ site.team_notes_repo}}/blob/main/js-for-react.md). You'll need to be able to read and use the JS in these notes to work with React effectively. **It would be valuable practice to type out the examples and run them yourself.**
 
