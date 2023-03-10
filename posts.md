@@ -12,6 +12,5 @@ nav_order: 2
 
 {% assign daily_posts = site.daily_posts | reverse %}
 {% for post in daily_posts %}
-{{post.url}}
 {{ post }}
 {% endfor %}
