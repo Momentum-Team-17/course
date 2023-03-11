@@ -40,6 +40,7 @@ jobs:
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
+          target_path: '/course'
         env:
           JEKYLL_ENV: production
       - name: Deploy to Github Pages
