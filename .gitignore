@@ -8,3 +8,5 @@ node_modules/
 vendor/
 _drafts/
 topic-template.md
+repobee.ini
+repobee-team.txt

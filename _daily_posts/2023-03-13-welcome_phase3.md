@@ -27,6 +27,7 @@ For an insightful take on being comfortable with what you don't know, read this 
 
 ## ✅ TODO for Everyone for the First Week
 
+- Read [this overview of what Web Applications are](https://www.robinwieruch.de/web-applications/) for essential context. Up to "Microservices" is what's most relevant to us.
 - Complete this [Goals Reflection exercise]({% link goals_reflection.md %}) to re-energize for what's ahead and focus on what you want to accomplish.
     - Reflect on where you are in this program. You've learned a lot and you have a lot left to learn. What are YOUR goals?
     - Post a tip from your CONTINUE list, or a request for advice for something that you've been struggling with to our team Slack channel.

@@ -2,7 +2,6 @@
 layout: home
 title: Posts
 permalink: daily-update
-has_children: true
 nav_order: 2
 ---
 
