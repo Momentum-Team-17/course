@@ -17,8 +17,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
-
-
 jobs:
 
   build:
@@ -35,16 +33,9 @@ jobs:
             ${{ runner.os }}-gems-
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      # - name: Jekyll Build
-      #   uses: actions/jekyll-build-pages@v1
-      #   with:
-      #     source: ./
-      #     destination: ./_site
-      #   env:
-      #     JEKYLL_ENV: production
       - name: Build Jekyll
-        uses: helaili/jekyll-action@2.5.0    # Choose any one of the Jekyll Actions
-        with: # Some relative inputs of your action
+        uses: helaili/jekyll-action@2.5.0
+        with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
           build_dir: ./_site
