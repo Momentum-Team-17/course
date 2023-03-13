@@ -45,17 +45,11 @@ Make sure you have the following set up in your local environment.
 
 [This link will create an empty repo on GitHub that you can use to push your tutorial code to]({{ site.data.projects.react_beginner_tutorial.url }}).
 
-If you finish this and want to keep going, try one of these other tutorials:
-
-- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - video-driven, intense and very complete
-- [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
-- [Dave Ceddia's React tutorial](https://daveceddia.com/react-getting-started-tutorial/) - very long, very comprehensive, but still pretty accessible
-
 ## 🔖 References
 
 - [Linting and formatting your code][linting-and-formatting]
 - [npm][npm]
 - [JS Syntax for React][js-syntax]
-- [React Tutorial Links][react-tutorials]
+- [A list of React Tutorials][react-tutorials]
 
 {% include reference_links.md %}

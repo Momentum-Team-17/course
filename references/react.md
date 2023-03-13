@@ -9,9 +9,9 @@ layout: resource_list
 
 ## Tutorials
 
-- [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/).
-- [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/)
 - [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
+- [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Dave Ceddia, React Tutorial](https://daveceddia.com/react-getting-started-tutorial/)
 
 ## Getting Started
