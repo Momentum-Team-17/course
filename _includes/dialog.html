@@ -1,14 +1,16 @@
 <dialog id="gh-name-dialog" aria-labelledby="dialog-title" aria-describedby="dialog-description">
-  <h3 id="dialog-title">Please enter your GitHub username.</h3>
-  <p id="dialog-description">This site uses your GitHub username to create some custom links to project repos.</p>
-  <form method="dialog">
-    <div>
-    <input type="text" id="gh-name-input"/>
+  <div id="dialog-text">
+    <h3 id="dialog-title">Please enter your GitHub username.</h3>
+    <p id="dialog-description">This site uses your GitHub username to create some custom links to project repos.</p>
+  </div>  
+  <form method="dialog" id="gh-username-form">
+    <div class="dialog-field">
+    <label for="gh-name-input"></label>
+    <input type="text" id="gh-name-input" required/>
     </div>
-    <div>
-      <button value="cancel" id="closeDialog">Cancel</button>
-      <button id="confirmBtn" value="default">Confirm</button>
+    <div class="dialog-buttons">
+      <button value="cancel" id="cancel-btn" class="btn btn-outline">Cancel</button>
+      <button id="confirm-btn" class="btn btn-green" value="default" type="submit">Submit</button>
     </div>
   </form>
 </dialog>
-<output></output>
