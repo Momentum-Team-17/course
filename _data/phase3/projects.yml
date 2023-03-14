@@ -16,20 +16,26 @@ drf_library_api:
   due_date: 2023-01-30
 
 # phase 3 frontend
+# these project links leave room for the github username to be appended in the custom links
 js_exercism:
   url: https://exercism.org/tracks/javascript
+  customize: true
   due_date: 2023-03-14
 react_beginner_tutorial:
-  url: https://classroom.github.com/a/lg-JhqKP
+  url: https://github.com/momentum-team-17/react-beginner-tutorial-
+  customize: true
   due_date: 2023-03-14
 react_freeshelf:
-  url: 
+  url: https://github.com/momentum-team-17/react-freeshelf-
+  customize: true
   due_date: 2023-03-16
-react_slideshow:
-  url: 
+react_slides:
+  url: https://github.com/momentum-team-17/react-slides-
+  customize: true
   due_date: 2023-03-20
 react_trivia:
   url: 
+  customize: true
   due_date: 2023-03-27
 
 # phase 3 collab

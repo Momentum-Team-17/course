@@ -4,14 +4,14 @@
   date: 2023-03-13
   page: phase3-fe/modern-js.md
   post_today: true
-  project_name: react-beginner-tutorial
+  project_name: react_beginner_tutorial
   published: true
 - title: Hello React World
   tag: fe
   phase: 3
   date: 2023-03-14
   page: phase3-fe/intro-react.md
-  project_name: react-freeshelf
+  project_name: react_freeshelf
   code_demo: 
   published: true
 - title: Components, Props, and State
