@@ -19,6 +19,12 @@ layout: resource_list
 - 📺 [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) Working together on a team is easier when everyone has the same standards for their code. Here is one popular style guide.
 
+### Working with JSX
+
+Understanding the difference between a statement and an expression can help you figure out what will be valid in JSX.
+
+- [Statements vs Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
+
 ## Modern JS Landscape
 
 - [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) -> This is essential for context.

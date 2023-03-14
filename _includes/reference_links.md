@@ -49,6 +49,7 @@
 [css-libraries]: {% link references/css-extra.md %}#css-libraries
 [ship-it]: {% link references/react.md %}#the-ship-it-mindset
 [js-syntax]: {% link references/js-for-react.md %}#js-syntax-for-react
+[js-jsx]: {% link references/js-for-react.md %}#working-with-jsx
 [react-tutorials]: {% link references/react.md %}#tutorials
 [react-basics]: {% link references/react.md %}#getting-started
 [react-concepts]: {% link references/react.md %}#react-concepts

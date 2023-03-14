@@ -50,5 +50,6 @@ Make sure you have the following set up in your local environment.
 - [npm][npm]
 - [JS Syntax for React][js-syntax]
 - [A list of React Tutorials][react-tutorials]
+- [Working with JSX][js-jsx]
 
 {% include reference_links.md %}
