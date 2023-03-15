@@ -1,18 +1,67 @@
 // To enable project links, we'll ask users for their github username and store it in local storage
 
-let githubUsername = window.localStorage.getItem('ghName')
+const localStorageKey = 'ghName'
+const dialog = document.getElementById('gh-name-dialog')
+const cancelBtn = document.getElementById('cancel-btn')
+const form = document.getElementById('gh-username-form')
+let cancelAttempts = 0
 
-const ensureGHUsername = () => {
+/****** Functions ******/
+const handleSubmit = (e) => {
+  e.preventDefault()
+  const ghNameInput = document.getElementById('gh-name-input')
+  window.localStorage.setItem(localStorageKey, ghNameInput.value)
+  ghNameInput.value = ''
+  dialog.close()
+  createCustomRepoLink()
+}
+
+// run this function once we have a username in localstorage
+function createCustomRepoLink() {
+  let githubUsername = window.localStorage.getItem(localStorageKey)
+  if (!githubUsername) return 
+  const repoLink = document.getElementById('custom-repo-link')
+  if (repoLink) repoLink.href += githubUsername
+}
+
+const openDialog = () => {
+  dialog.showModal()
+}
+
+const showWarning = () => {
+  const dialogTextDiv = document.getElementById('dialog-text')
+  let warning = document.getElementById('dialog-warning')
+  if (warning) dialogTextDiv.removeChild(warning)
+  const githubUsername = window.localStorage.getItem(localStorageKey)
   if (!githubUsername) {
-    githubUsername = window.prompt(
-      'Please enter your GitHub username. \n\n This site uses it to generate personalized project links. \n\n If you dismiss this prompt, it will keep appearing until you enter your information. 😀',
-      ''
-    )
-    window.localStorage.setItem('ghName', githubUsername.trim())
+    warning = document.createElement('p')
+    warning.id = 'dialog-warning'
+    warning.style.color = '#c9184a'
+    warning.innerText =
+      "If you don't set a GitHub username, some project links might not work properly."
+    dialogTextDiv.appendChild(warning)
   }
 }
 
-const repoLink = document.getElementById('custom-repo-link')
-if (repoLink) repoLink.href += githubUsername
+const closeDialog = (event) => {
+  event.preventDefault()
+  if (cancelAttempts) dialog.close()
+  cancelAttempts = 1
+  showWarning()
+}
 
-window.addEventListener('load', () => ensureGHUsername())
+
+/****** Event Listeners ******/
+window.addEventListener('load', () => {
+  const githubUsername = window.localStorage.getItem(localStorageKey)
+  if (!githubUsername) {
+    console.log('No github username')
+    openDialog()
+  } else {
+    createCustomRepoLink()
+  }
+})
+
+cancelBtn.addEventListener('click', closeDialog)
+
+form.addEventListener('submit', handleSubmit)

@@ -264,3 +264,22 @@ strong {
     // color: $brand-violet;
   }
 }
+
+dialog {
+  border-radius: 4px;
+  border: 1px solid silver;
+  padding: 3rem;
+  .dialog-buttons {
+    margin-top: 3rem;
+  }
+  input {
+    padding: 0.5rem;
+    border: 1px solid silver;
+    border-radius: 4px;
+    width: 80%;
+  }
+}
+
+dialog::backdrop {
+  background-color: rgba(0, 0, 0, 0.6);
+}
