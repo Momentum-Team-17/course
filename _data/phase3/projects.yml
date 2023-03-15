@@ -1,7 +1,7 @@
 # phase 3 backend
 habit_tracker:
-  url: https://classroom.github.com/a/rm1pmmw2
-  due_date: 2023-01-23
+  url: https://github.com/Momentum-Team-17/habit-tracker.git
+  due_date: 2023-03-17
 drf_tutorial:
   url: https://classroom.github.com/a/hOPpckm5
   due_date: 2023-01-24
