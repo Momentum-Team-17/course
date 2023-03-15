@@ -12,11 +12,11 @@
 [css-start]: {% link references/css-basics.md %}#getting-started-with-css
 [css-box-model]: {% link references/css-basics.md %}#the-box-model
 [css-general]: {% link references/css-basics.md %}#css-general
-[ajax-fetch]: {% link references/js-ajax-and-apis.md %}#ajax-and-fetch
-[apis]: {% link references/js-ajax-and-apis.md %}#apis
-[js-truthy-falsy]: {% link references/js-basics.md %}#truthy-and-falsy
-[js-dates]: {% link references/js-misc.md %}#working-with-dates
-[js-forms]: {% link references/js-forms.md %}
+[ajax-fetch]: {% link references/js-general.md %}#ajax-and-fetch
+[apis]: {% link references/js-general.md %}#apis
+[js-truthy-falsy]: {% link references/js-general.md %}#truthy-and-falsy
+[js-dates]: {% link references/js-general.md %}#working-with-dates
+[js-forms]: {% link references/js-general.md %}
 
 <!-- tools -->
 [markdown]: {% link references/tools.md %}#markdown
