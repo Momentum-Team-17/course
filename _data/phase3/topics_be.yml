@@ -18,11 +18,11 @@
 - title: Queries & Using the Shell
   tag: be
   phase: 3
-  date: 2023-01-19
+  date: 2023-03-16
   page: phase3-be/queries-and-django-shell.md
   project_name: habit_tracker
   code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
-  published: false
+  published: true
 - title: HTTP and REST
   tag: be
   phase: 3
