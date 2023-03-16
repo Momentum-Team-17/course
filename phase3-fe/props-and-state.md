@@ -16,9 +16,9 @@ published: true
 
 ## 🏗️ Project: Studio Ghibli Slideshow
 
-Today, you'll start on your first React app from scratch. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
+Today, you'll start on your first React app from scratch. This is **due on {{ site.data.phase3.projects.react_slides.due_date | date: "%A, %B %e" }}**.
 
-[React Slideshow]({{ site.data.projects.react-slideshow.url }})
+[React Slideshow]({{ site.data.phase3.projects.react_slides.url }}){:#custom-repo-link}
 
 🧰 Please be sure that you have installed AND remember to use the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
 
