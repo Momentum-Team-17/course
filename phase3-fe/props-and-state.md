@@ -5,27 +5,22 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- Review first impressions of React
-- Build a small React app together
+- Review Freeshelf
 - Components and JSX
 - Handling data in React with props and state
 
-## 🏗️ Project: Freeshelf | Slideshow
+## 🏗️ Project: Studio Ghibli Slideshow
 
-Today, you'll start on your first React app without a tutorial. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
+Today, you'll start on your first React app from scratch. This is **due on {{ site.data.projects.react_freeshelf.due_date | date: "%A, %B %e" }}**.
 
-[React Freeshelf]({{ site.data.projects.react_freeshelf.url }})
+[React Slideshow]({{ site.data.projects.react-slideshow.url }})
 
-This should be challenging for a React beginner, but if you finish it early, please do this additional project:
-
-[React Slideshow]({{ site.data.projects.react_slideshow.url }})
-
-🧰 Please be sure to install AND USE the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
+🧰 Please be sure that you have installed AND remember to use the [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en).
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 

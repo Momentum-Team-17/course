@@ -21,7 +21,7 @@
   page: phase3-fe/props-and-state.md
   project_name: react_slides
   code_demo: 
-  published: false
+  published: true
 - title: AJAX and APIs
   tag: fe
   phase: 3
