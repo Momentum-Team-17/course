@@ -34,7 +34,7 @@
 - title: Intro to Django REST Framework
   tag: be
   phase: 3
-  date: 2023-01-24
+  date: 2023-03-21
   page: phase3-be/drf.md
   project_name: drf_choose_your_own_adventure
   code_demo:
