@@ -4,10 +4,10 @@ habit_tracker:
   due_date: 2023-03-17
 drf_tutorial:
   url: https://classroom.github.com/a/UzNpDzpQ
-  due_date: 2023-03-24
+  due_date: 2023-03-21
 drf_tutorial_guide:
   url: https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
-  due_date: 2023-01-26
+  due_date: 2023-03-21
 drf_choose_your_own_adventure:
   url: https://classroom.github.com/a/NN3iTcDR
   due_date: 2023-01-30
