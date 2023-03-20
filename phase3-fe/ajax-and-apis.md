@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -17,22 +17,18 @@ published: false
 
 ## 🏗️ Project: React Trivia
 
-This extended project is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}. You'll request data from the [Open Trivia API](https://opentdb.com/) to power a trivia quiz application built with React.
+This project is due on {{ site.data.phase3.projects.react_trivia.due_date | date: "%A, %B %e" }}. You'll request data from the [Open Trivia API](https://opentdb.com/) to power a trivia quiz application built with React.
 
-[React Trivia GitHub Project Link]({{ site.data.projects.react_trivia.url}})
+[React Trivia]({{ site.data.phase3.projects.react_trivia.url}})
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
-### How to Think About Building Things in React
+### How to think about building React apps
 
 - 📺 [Understanding what it means to be declarative instead of imperative - video](https://youtu.be/E7Fbf7R3x6I)
 - 📖 [Thinking in React](https://beta.reactjs.org/learn/thinking-in-react)
 - 📖 [Thinking in React 2020](https://dev.to/laserreindeer/thinking-in-react-the-2020-version-4c18)
 - 📖 [Thinking "declaratively" in React](https://daveceddia.com/thinking-statefully/)
-
-### Props and State
-
-- 📖 [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/) ⚠️ This post references the older class syntax of React. The basic concepts are the same, though.
 - 📺 [Using State vs Props in React - video](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 ## 🔖 References

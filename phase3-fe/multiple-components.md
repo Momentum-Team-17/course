@@ -41,6 +41,12 @@ Re-visit anything from yesterday's reading/watching/listening that you didn't ge
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page, so it includes examples with older React sytax using JavaScript classes for components. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
 
+- ### Architecting React Apps
+
+- 📺 [Using Composition in React to Avoid Prop Drilling](https://youtu.be/3XaXKiXtNjw)
+- 📖 [Patterns in JavaScript](https://www.patterns.dev/)
+- 📖 [Solving "Prop Drilling" in React](https://blog.logrocket.com/solving-prop-drilling-react-apps/)
+
 ## 🔖 References
 
 - [Conditional Rendering in React][react-conditional-render]
