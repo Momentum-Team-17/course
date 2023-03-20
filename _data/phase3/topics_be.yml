@@ -26,11 +26,11 @@
 - title: HTTP and REST
   tag: be
   phase: 3
-  date: 2023-01-23
+  date: 2023-03-20
   page: phase3-be/http-and-rest.md
   project_name: drf_tutorial
   code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
-  published: false
+  published: true
 - title: Intro to Django REST Framework
   tag: be
   phase: 3

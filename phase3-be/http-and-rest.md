@@ -5,7 +5,7 @@ topic: Python
 category: phase3-be
 parent: Phase 3 Back End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
