@@ -38,7 +38,7 @@
   page: phase3-be/drf.md
   project_name: drf_choose_your_own_adventure
   code_demo:
-  published: false
+  published: true
 - title: DRF Views and Serializers
   tag: be
   phase: 3
