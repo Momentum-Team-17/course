@@ -36,7 +36,7 @@
   date: 2023-03-21
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-17/example-react-devs
   published: true
 - title: Deploying a React App
   tag: fe
