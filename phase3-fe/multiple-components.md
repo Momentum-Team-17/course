@@ -37,7 +37,7 @@ Re-visit anything from yesterday's reading/watching/listening that you didn't ge
 
 - 📖 [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - 📖 [Lifting State Up](https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-example)
-- 📺 [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
+- 📺 [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw)
 
 - ### Architecting React Apps
 
