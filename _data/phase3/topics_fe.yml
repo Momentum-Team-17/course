@@ -37,7 +37,7 @@
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo:
-  published: false
+  published: true
 - title: Deploying a React App
   tag: fe
   phase: 3

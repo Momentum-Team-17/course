@@ -59,6 +59,7 @@
 [react-conditional-render]: {% link references/react.md %}#conditional-rendering
 [react-deploy]: {% link references/react.md %}#deployment
 [react-events]: {% link references/react.md %}#events
+[advanced-events]: {% link references/js-general.md %}#digging-deeper-into-events
 [react-local-storage]: {% link references/react.md %}#local-storage-and-state
 [react-forms]: {% link references/react.md %}#forms
 [react-file-structure]: {% link references/react.md %}#file-structure

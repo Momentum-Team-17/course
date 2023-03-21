@@ -53,8 +53,12 @@ layout: resource_list
 - [MDN Element Events](https://developer.mozilla.org/en-US/docs/Web/API/Element#events) -> this is where you can see the events that are defined for elements (like "click" or "mouseover")
 - [MDN Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) -> this is a huge list of all the available events, useful mainly to get an idea of what's possible
 - [How JS Event Delegation Works](https://davidwalsh.name/event-delegate)
+
+### Digging Deeper into Events
+
 - [JS Event Bubbling and Capturing](https://javascript.info/bubbling-and-capturing)
 - [Loupe: Visualizing the JS Event Loop](http://latentflip.com/loupe)
+- [JS and Events Fundamentals](https://www.lullabot.com/articles/javascript-and-events-fundamentals)
 
 ## Browser Rendering
 
