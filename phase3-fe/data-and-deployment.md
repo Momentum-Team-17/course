@@ -5,18 +5,17 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 6
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- Check in on project progress
 - Finding & fixing bugs in your project
 - Deploying to [Netlify](https://www.netlify.com/with/react/)
 
-## 🏗️ Project
+## 🏗️ Project: React Job Search
 
-The React Trivia application is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}.
+The [React Job Search project]({{ site.data.phase3.projects.react_job_search.url}}) is due on {{ site.data.phase3.projects.react_job_search.due_date | date: "%B %e" }}.
 
 It should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
 

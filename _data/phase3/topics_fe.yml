@@ -43,9 +43,9 @@
   phase: 3
   date: 2023-03-23
   page: phase3-fe/data-and-deployment.md
-  project_name: react_trivia
-  code_demo:
-  published: false
+  project_name: react_job_search
+  code_demo: https://github.com/Momentum-Team-17/example-react-devs
+  published: true
 - title: Forms in React
   tag: fe
   phase: 3
