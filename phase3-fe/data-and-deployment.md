@@ -13,26 +13,13 @@ published: true
 - Finding & fixing bugs in your project
 - Deploying to [Netlify](https://www.netlify.com/with/react/)
 
-## 🏗️ Project: React Job Search
+## 🏗️ Project: React Trivia OR React Job Search
+
+If you haven't finished React Trivia, you should aim to finish that. If you have finished it, or finish it early, please do the React Job Search project.
 
 The [React Job Search project]({{ site.data.phase3.projects.react_job_search.url}}) is due on {{ site.data.phase3.projects.react_job_search.due_date | date: "%B %e" }}.
 
-It should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
-
-### Minimum functional requirements
-
-- A user can see a list of categories.
-- A user can select one category.
-- A user can see questions for that category, with answer options for each question.
-- A user can select an answer for a question.
-- A user can see if that answer is the correct answer.
-- A user can go back to the category list and start over.
-
-#### It would be awesome if...
-
-- The answers are shuffled so that the correct answer is not always in the same position.
-- The questions are shown one at a time instead of all at once, and the user is able to advance through the set of questions.
-- A user can see how many questions they answered correctly (or some kind of score) when they have answered all the questions in a category.
+Your application should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
