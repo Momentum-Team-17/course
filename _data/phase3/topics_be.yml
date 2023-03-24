@@ -42,11 +42,11 @@
 - title: DRF Views and Serializers
   tag: be
   phase: 3
-  date: 2023-01-26
+  date: 2023-03-23
   page: phase3-be/drf-serializers-and-views.md
   project_name: drf_choose_your_own_adventure
   code_demo:
-  published: false
+  published: true
 - title: Token Authentication and CORS
   tag: be
   phase: 3
