@@ -63,7 +63,7 @@ layout: resource_list
 - [Handing Events in React with examples for functional components](https://www.newline.co/@andreeamaco/how-to-use-react-onclick-events-in-class-and-functional-components--fb63a01e)
 - [Supported Events in React](https://reactjs.org/docs/events.html#supported-events)
 
-## AJAX in React
+## Making HTTP Requests in React
 
 - [Axios on GitHub](https://github.com/axios/axios)
     - [Axios docs: Getting Started](https://axios-http.com/docs/intro)
@@ -71,8 +71,6 @@ layout: resource_list
     - [POST request config](https://github.com/axios/axios#axiosconfig)
     - [Axios Request Config](https://github.com/axios/axios#request-config)
     - [Axios Response Schema](https://github.com/axios/axios#response-schema)
-- [Notes: JS for React](https://github.com/momentumlearn/student-resources/blob/main/articles/js-for-react.md)
-- [React Official Docs: AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
 - [CORS explained for front-end devs](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
 ## useEffect

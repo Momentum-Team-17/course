@@ -46,23 +46,25 @@
   project_name: react_job_search
   code_demo: https://github.com/Momentum-Team-17/example-react-devs
   published: true
-- title: Forms in React
-  tag: fe
-  phase: 3
-  date: 2023-03-27
-  page: phase3-fe/react-forms.md
-  project_name: collaborative_project
-  code_demo:
-  post_today: false
-  published: false
 - title: Authentication in React
   tag: fe
   phase: 3
-  date: 2023-03-28
+  date: 2023-03-27
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-17/example-react-auth
+  published: true
+  post_today: true
+- title: Forms in React
+  tag: fe
+  phase: 3
+  date: 2023-03-28
+  page: phase3-fe/react-forms.md
+  project_name: collaborative_project
   code_demo:
+
   published: false
+
 - title: URL Routing in React
   tag: fe
   phase: 3

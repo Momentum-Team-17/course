@@ -34,7 +34,7 @@ Your application should meet at least the **minimum functional requirements** an
 - [Instructions for deploying a React App to Netlify]([Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8))
 - [Deployment][react-deploy]
 - [Managing State][react-state]
-- [AJAX in React][react-ajax]
+- [Fetching data in React][react-requests]
 - [The useEffect hook][react-use-effect]
 - [Events in React][react-events]
 - [Conditional Rendering Techniques][react-conditional-render]

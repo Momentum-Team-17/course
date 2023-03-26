@@ -12,7 +12,7 @@ published: true
 
 - More about using state in React
 - Conditional rendering
-- How to make AJAX calls in React using Axios
+- How to fetch data in React using Axios
 - The `useEffect` hook
 
 ## 🏗️ Project: React Trivia
@@ -33,7 +33,7 @@ This project is due on {{ site.data.phase3.projects.react_trivia.due_date | date
 
 ## 🔖 References
 
-- [AJAX in React][react-ajax]
+- [Fetching data in React][react-requests]
 - [The useEffect hook][react-use-effect]
 - [Events in React][react-events]
 - [Conditional Rendering Techniques][react-conditional-render]

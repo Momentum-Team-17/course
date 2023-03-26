@@ -54,7 +54,7 @@
 [react-basics]: {% link references/react.md %}#getting-started
 [react-concepts]: {% link references/react.md %}#react-concepts
 [react-state]: {% link references/react.md %}#managing-state
-[react-ajax]: {% link references/react.md %}#ajax-in-react
+[react-requests]: {% link references/react.md %}#making-http-requests-in-react
 [react-use-effect]: {% link references/react.md %}#useeffect
 [react-conditional-render]: {% link references/react.md %}#conditional-rendering
 [react-deploy]: {% link references/react.md %}#deployment
