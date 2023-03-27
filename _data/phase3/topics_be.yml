@@ -50,16 +50,16 @@
 - title: Token Authentication and CORS
   tag: be
   phase: 3
-  date: 2023-01-30
+  date: 2023-03-27
   page: phase3-be/token-auth.md
   project_name: collaborative_project
   code_demo:
   post_today: true
-  published: false
+  published: true
 - title: Models and API Design
   tag: be
   phase: 3
-  date: 2023-01-31
+  date: 2023-03-27
   page: phase3-be/models-api-design.md
   project_name: collaborative_project
   code_demo:
