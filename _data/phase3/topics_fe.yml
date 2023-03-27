@@ -60,17 +60,15 @@
   phase: 3
   date: 2023-03-28
   page: phase3-fe/react-forms.md
-  project_name: collaborative_project
-  code_demo:
-
-  published: false
-
+  project_name:
+  code_demo: https://github.com/Momentum-Team-17/example-react-auth
+  published: true
 - title: URL Routing in React
   tag: fe
   phase: 3
   date: 2023-03-30
   page: phase3-fe/react-router.md
-  project_name: collaborative_project
+  project_name:
   code_demo:
   published: false
 - title: Search in React
@@ -78,7 +76,7 @@
   phase: 3
   date: 2023-04-03
   page: phase3-fe/search.md
-  project_name: collaborative_project
+  project_name:
   code_demo:
   published: false
   post_today: false
@@ -87,7 +85,7 @@
   phase: 3
   date: 2023-04-04
   page: phase3-fe/file-upload.md
-  project_name: collaborative_project
+  project_name:
   code_demo:
   published: false
   post_today: false

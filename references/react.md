@@ -26,7 +26,7 @@ layout: resource_list
 - [What is React? A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
 - [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
 - [Understanding what it means to be declarative instead of imperative - video](https://youtu.be/E7Fbf7R3x6I)
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Thinking in React](https://react.dev/learn/thinking-in-react)
 - [Thinking in React 2020](https://dev.to/laserreindeer/thinking-in-react-the-2020-version-4c18)
 - [Thinking "declaratively" in React](https://daveceddia.com/thinking-statefully/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
