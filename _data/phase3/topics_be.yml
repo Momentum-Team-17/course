@@ -62,7 +62,7 @@
   date: 2023-03-28
   page: phase3-be/models-api-design.md
   project_name: collaborative_project
-  code_demo:
+  code_demo: https://github.com/Momentum-Team-17/example-drf-rabbit-snacker
   published: true
 - title: API Endpoints
   tag: be
