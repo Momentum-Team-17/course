@@ -32,6 +32,10 @@ layout: resource_list
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Jenn Creighton, React Is Fiction](https://www.youtube.com/watch?v=3s-vgOwNpac)
 
+### More Advanced React Concepts
+
+- [Getting Closure on React Hooks](https://youtu.be/KJP1E-Y-xyo) Shawn Wang codes hooks from scratch to understand what is actually happening with things like useState.
+
 ## Props and State
 
 - [Props vs. State - blog post](https://lucybain.com/blog/2016/react-state-vs-pros/) ⚠️ _This post references the older class syntax of React. The basic concepts are the same, though._

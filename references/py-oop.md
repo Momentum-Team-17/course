@@ -26,4 +26,3 @@ layout: resource_list
 
 - [Scope of Variables in Python](https://www.datacamp.com/community/tutorials/scope-of-variables-python)
 - [🐛 Debugging Python For Fun & Profit (video)](https://www.youtube.com/watch?v=rMCZgYfEJJI)
-- [Code Style Checks in Python](https://julien.danjou.info/code-style-checks-in-python/) e.g. `flake8`
