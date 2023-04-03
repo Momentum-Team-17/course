@@ -7,9 +7,9 @@ layout: daily_post
 
 To wrap up Phase 3, you'll finish the Social Cards or QuestionBox project and create a short video walk-through of your code.
 
-The project is due by EOD on {{ site.data.projects.phase_3.collaborative_project.due_date | date:"%A, %B %-d" }}.
+The project is due by EOD on {{ site.data.phase3.projects.collaborative_project.due_date | date:"%A, %B %-d" }}.
 
-The video is due at 9:00 am ET {{ site.data.projects.phase_3_video_presentation.due_date | date:"%A, %B %-d" }}.
+The video is due at 9:00 am ET on {{ site.data.phase3.projects.video_presentations.due_date | date:"%A, %B %-d" }}.
 
 ## ✅ Requirements for passing the phase (for both front-end and back-end)
 
