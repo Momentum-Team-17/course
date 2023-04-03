@@ -46,6 +46,15 @@ layout: resource_list
 
 - [Component Design in React](https://marvelapp.com/blog/making-good-component-design-decisions-in-react/)
 
+### UI and Design Best Practices
+
+- [UI best practices for loading, error, and empty states in](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)
+- [The Golden Ratio in UI Design](https://www.nngroup.com/articles/golden-ratio-ui-design/)
+- [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+- [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+- [7 Rules for Creating Gorgeous UI - part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html)
+- [Visual Design Rules You Can Safely Follow](https://anthonyhobday.com/sideprojects/saferules/)
+
 ## Managing State
 
 - [Using the State Hook](https://reactjs.org/docs/hooks-state.html)

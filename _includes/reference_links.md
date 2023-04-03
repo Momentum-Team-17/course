@@ -68,6 +68,7 @@
 [react-useref]: {% link references/react.md %}#useref
 [react-search]: {% link references/react.md %}#search
 [react-custom-hooks]: {% link references/react.md %}#custom-hooks
+[ui-best-practices]: {% link references/react.md %}#ui-best-practices
 
 <!-- phase 4 Agile Development -->
 [agile-101]: {% link references/agile-development.md %}#intro-to-agile-development
