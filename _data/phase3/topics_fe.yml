@@ -77,9 +77,9 @@
   date: 2023-04-03
   page: phase3-fe/search.md
   project_name:
-  code_demo:
-  published: false
-  post_today: false
+  code_demo: https://github.com/Momentum-Team-17/example-react-auth
+  published: true
+  post_today: true
 - title: Uploading Files
   tag: fe
   phase: 3

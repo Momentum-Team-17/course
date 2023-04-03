@@ -174,5 +174,6 @@ You could also perform a search without making an AJAX request, by filtering dat
 
 - [Create a search bar from scratch](https://blog.logrocket.com/create-search-bar-react-from-scratch/)
 - [How to Build a Search Bar in React](https://www.emgoto.com/react-search-bar/)
+- [MDN Array Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 {% include reference_links.md %}
