@@ -84,9 +84,9 @@
 - title: File & Image Upload
   tag: be
   phase: 3
-  date: 2023-02-07
+  date: 2023-04-04
   page: phase3-be/file-and-image-upload.md
   project_name: collaborative_project
   code_demo:
-  published: false
+  published: true
   post_today: true
