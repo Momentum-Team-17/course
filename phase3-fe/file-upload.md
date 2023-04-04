@@ -5,7 +5,7 @@ topic: JavaScript
 category: phase3-fe
 parent: Phase 3 Front End
 nav_order: 11
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -28,7 +28,11 @@ The back-end is learning how to accept requests that included attached files (in
 
 The HTTP method for the request could be a POST, PUT, or PATCH, depending on how the backend implements the endpoint. The example below is an update to an existing record; notice that we are using the PATCH method.
 
-This request includes only the file itself and no JSON; notice that the file is in the second position as an argument to `axios.patch()` as the body of the request. We must set the Content-Disposition header, which required by the server to handle the binary file attachment, in addition to the Authorization and Content-Type headers.
+This request includes only the file itself and no JSON.
+
+👉 Notice that the file is in the second position as an argument to `axios.patch()` as the body of the request.
+
+We must set the `Content-Disposition` header, which is required by the server to handle the binary file attachment, in addition to the `Authorization` and `Content-Type` headers.
 
 ```js
 axios.patch(url, file, {
@@ -37,10 +41,12 @@ axios.patch(url, file, {
     'Content-Type': file.type,
     'Content-Disposition': `attachment; filename=${file.name}`
   }
-}).then(res => console.log(res.data))
+}).then(res => {
+    // do whatever you need to do, like set state or console.log to see what you've got
+    })
 ```
 
-NOTE: If you Google how to include a file attachment in an AJAX request, you'll see a lot of references to [using the FormData object](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects). If you want to do it this way, please discuss with your back end devs, as they will need to make sure that they can parse MultiPart form content.
+NOTE: If you Google how to include a file attachment in an AJAX request, you'll see a lot of references to [using the FormData object](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects). This can be useful if you want to send JSON and a file attachment at the same time. If you want to do it this way, please discuss with your back-end devs, as they will need to make sure that they can parse MultiPart form content.
 
 The above method does not use the FormData object. It's a little simpler in that it sends just the file and no additional data. You'll need a way to [access the file that is being uploaded by the user](https://developer.mozilla.org/en-US/docs/Web/API/File_API/Using_files_from_web_applications#accessing_selected_files). That file is what is stored in the `file` variable in the above example.
 
@@ -48,6 +54,7 @@ See the references below for more information about using a file input element a
 
 ## 🔖 Resources
 
+- [UI Best Practices][ui-best-practices]
 - [HTTP headers][http-headers]
 - [The useRef hook][react-useref]
 - [Uploading Files][file-upload]

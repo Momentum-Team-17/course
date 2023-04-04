@@ -87,5 +87,4 @@
   page: phase3-fe/file-upload.md
   project_name:
   code_demo:
-  published: false
-  post_today: false
+  published: true
