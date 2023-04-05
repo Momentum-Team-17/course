@@ -38,7 +38,7 @@ latest_mac_os_num: '13'
 latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0
+remote_theme: just-the-docs/just-the-docs@v0.4.2
 color_scheme: mmntm
 search_enabled: true
 heading_anchors: true
