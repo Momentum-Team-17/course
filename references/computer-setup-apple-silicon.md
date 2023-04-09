@@ -231,7 +231,7 @@ You can make sure it is installed by running the following. The expected output 
 
 ```bash
 $ git --version
-git version 2.39.2 # Note! Your version doesn't have to be the same.
+git version 2.40.0 # Note! Your version doesn't have to be the same.
 $ which git
 /opt/homebrew/bin/git
 ```
@@ -366,12 +366,12 @@ $ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosugg
 It's important to run all of these lines in this order. You will have better results if you copy and paste instead of trying to type these lines out. Remember not to include the dollar sign if you copy and paste!
 
 ```bash
-$ brew install zsh-completions zsh-autosuggestions zsh-syntax-highlighting starship
-$ echo 'FPATH=$(brew --prefix)/share/zsh-completions:$FPATH' >> ~/.zshrc
-$ echo 'autoload -U compinit && compinit' >> ~/.zshrc
-$ echo 'eval "$(starship init zsh)"' >> ~/.zshrc
-$ echo 'source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ~/.zshrc
-$ echo 'source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
+brew install zsh-completions zsh-autosuggestions zsh-syntax-highlighting starship 
+echo 'FPATH=$(brew --prefix)/share/zsh-completions:$FPATH' >> ~/.zshrc
+echo 'autoload -U compinit && compinit' >> ~/.zshrc
+echo 'eval "$(starship init zsh)"' >> ~/.zshrc
+echo 'source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ~/.zshrc
+echo 'source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh' >> ~/.zshrc
 ```
 
 **Close the terminal window and open a new one**. Your command line should now look like this:
@@ -394,7 +394,7 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-When it’s done installing, go to i**Term2 > Preferences > Profiles > Text > Font.**
+When it’s done installing, go to **iTerm2 > Preferences > Profiles > Text > Font.**
 
 On that panel, select `Hack Nerd Font Mono` under the **Font** menu. You can set any other preferences you like here ([iTerm2 preferences documentation](https://iterm2.com/documentation-preferences.html)).
 

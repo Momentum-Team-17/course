@@ -57,6 +57,7 @@ layout: resource_list
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 - [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) _A critical look at the power dynamics implicit in Agile methods._
 - [Agile 101: Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
 ## Agile Practices 🛹
 

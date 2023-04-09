@@ -222,12 +222,12 @@ You can make sure it is installed by running the following. The expected output 
 
 ```bash
 $ git --version
-git version 2.39.2 # Note! Your version doesn't have to be the same.
+git version 2.40.0 # Note! Your version doesn't have to be the same.
 $ which git
-/opt/homebrew/bin/git
+/usr/local/bin/git
 ```
 
-If the output you see when you run `which git` says `usr/bin/git` and not homebrew, try closing and reopening the terminal window, and re-run the command.
+If the output you see when you run `which git` says `usr/bin/git` and does not include `local`, try closing and reopening the terminal window, and re-run the command.
 
 💡 You can check to see if you have other command line tools installed using the name of the command followed by `--version` (or sometimes `-v`).
 {:.callout}
@@ -385,10 +385,9 @@ brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 ```
 
-When it’s done installing, go to i**Term2 > Preferences > Profiles > Text > Font.**
+When it’s done installing, go to **iTerm2 > Preferences > Profiles > Text > Font.**
 
 On that panel, select `Hack Nerd Font Mono` under the **Font** menu. You can set any other preferences you like here ([iTerm2 preferences documentation](https://iterm2.com/documentation-preferences.html)).
-
 
 🤓 You can choose any monospaced font you like. Check out [Nerd Fonts](https://www.nerdfonts.com/) for lots of options.
 {:.callout}
