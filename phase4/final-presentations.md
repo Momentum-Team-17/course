@@ -5,55 +5,41 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 7
-published: false
+published: true
 permalink: presentation-prep-guide
 ---
 
 # A Guide to Final Presentations
 
-This is your public debut as a professional technologist, and we want the focus squarely on you and all your skills. The project itself is a vehicle to highlight why an employer would want to hire you.
+{% include summary_toc.html %}
 
-Each developer on the team will introduce themselves (a minute or less), then the team will present your project (4-6 minutes). Following the presentation, each team will have a few minutes of Q&A time with panelists.
-
-_Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions (see the section below on prepping for Q&A).
-
-## Previous Team Final Presentations
-
-Watch for examples of how the show runs and how previous teams handled their presentations and Q&A.
-
-- [Team Fourteen Presentation Day, October 2022](https://us02web.zoom.us/rec/share/K_nuNEjNm1xysBMxm-mCQooyjA2GO6oSa9VNlkyE36n4ARODaieAcQcySGnYKpoZ.XO_2oalBqEOqux77?startTime=1666972872000) Passcode: 8Gtd#jS!
-- [Team Thirteen Presentation Day, September 2022](https://us02web.zoom.us/rec/share/W3hu_wwwFWmD8tRVyXg0e8Om05mTN67gCpoYFyZdyw0cTaP8BWzDhDQuxCB7l5vc.DpKKulWOhnPfXPxa) Passcode: @lT=iR=3
-- [Team Eleven Presentation Day, May 2022](https://us02web.zoom.us/rec/share/XCq7Xv5pmrIJ4YMIYOQ8ytSQ1lQRBYzepYb8o7HzpDWZApzETI0VYKVRJBGznoqM.9DUr9Vq74zZ_PXeT) Passcode: 0Hd0m#&J
-- [Team Ten Presentation Day, February 2022](https://us02web.zoom.us/rec/share/VtFkp6vJztn3cRbqX-rBRgoLov8rbT6R6v5-OwcNnn2YzdAtfNeY73PmV5yk.ChlY_xtilCowZZQI) Passcode: tz&M7t&s
-- [Team Nine Presentation Day, October 2021](https://us02web.zoom.us/rec/share/RlibILdwsQId4vRsDQsoIO52FW13ocrq4LdZ771wbQaAx7qnNXWhYIclV0MFSefg.vfu38M8J4oMDYeLh?startTime=1634918481000) (no password required)
-- [Team Eight Presentation Day, August 2021](https://us02web.zoom.us/rec/play/nvDal265sVKKtbF8vKQO5upyd3id-Cxk6EQNdQ6gvjz3h4z1Xyz8Nk-Nkry2HzLeCTvX5ZxPgidrgYGz.woK4kQnjYWvWnq-7?startTime=1630080088000) Passcode: +E#$E@h0
-- [Team Seven Presentation Day, May 2021](https://us02web.zoom.us/rec/share/DBOPdL-PCm-3b2jX1-GiLaGaP5KWC4AP1ZgWgFZ-4OvGcFm2CpQM6wqlPdb9i5dI.WMmKe5DhtGm-IJi9?startTime=1620403037000) Passcode: \*2AO%WaU
-
-## Tell the story of your app and your team
+The final presentation is your public debut as a professional technologist. The focus should be squarely on you and all your skills. We want you to demonstrate all the reasons an employer would want to hire you. 
 
 Show your confidence, enthusiasm, ability to learn a lot in a short time, and readiness to contribute as part of a professional development team.
 
-### Structure of Presentation
+You need to prepare for three parts of the presentation:
 
-1. Introduce yourself. Tell us who you are and what you did before this/something about your background.
-2. Describe your app and what it does, concisely, in one or two sentences. _Example_: "8-Track is an app that lets you build a to-do list for listening to your music."
-3. Why did you build this? What is the central problem you are solving or the need that your app addresses?
-4. Each developer talks about some feature of the app that they worked on with enough technical detail to show what you've learned.
-5. Conclusion: it's up to you how to end your presentation; see the topics list below for suggestions.
+1. Introduce yourself
+2. Present your project with a screencast
+3. Answer questions from panelists
 
-### Screencast & App Description
+## Introduce Yourself
 
-Record a screencast that demos your app's features. You and your team will talk while the screencast is playing. You can record a screencast easily in QuickTime (which should already be on your Mac). The video format should be `.mov`.
+Each developer on the team will introduce themselves (a minute or less). You should tell us about what you did before Momentum, any hobbies or other skills you have, and maybe something about why you're interested in a career in technology. Imagine you're talking to your future co-workers who want to get to know you.
 
-Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
+## Present your project
 
-Upload your final video and brief description (AND APP NAME!) to the Google Drive folder below by **Thursday March 9 at 3:30 pm**.
+You will present your project as a team. You'll record a screencast of your app that will be played while you are talking. Your presentation should be 4-6 minutes in length.
 
-[⬆️ 📁 **Link to upload your video**](https://drive.google.com/drive/folders/1w4sREd5ywb0-qviRqRBBkLgnimMCQkzu?usp=sharing)
+Describe your app and what it does, concisely, in one or two sentences. _Example_: "8-Track is an app that lets you build a to-do list for listening to your music."
+
+Then, tell us why you built this. What is the central problem you are solving or the need that your app addresses?
+
+Each developer should talk about some feature of the app that they worked on. Include enough technical detail to show what you've learned.
 
 ### Topics to include in your presentation
 
-You don't have to mention _all_ of the following, but consider touching on several of these points. Think about what you want to show off.
+You don't have to mention _all_ of the following, but consider touching on several of these points. Think about what you want to show off. You should mention the technologies you used by name.
 
 Remember, the focus should be on _your skills_ and _what you did_.
 
@@ -77,9 +63,25 @@ Remember, the focus should be on _your skills_ and _what you did_.
     - Notable lessons learned
     - Thanks for audience's time
 
-## Q&A Prep
+### Screencast & App Description
 
-You should be prepared to answer questions about the technical implementation of your application, about its use and the user needs it addresses, and about ways you might develop it in the future.
+Record a screencast that demos your app's features. You and your team will talk while the screencast is playing. You can record a screencast easily in QuickTime (which should already be on your Mac). The video format should be `.mov`.
+
+Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
+
+Upload your final video and brief description (AND APP NAME!) to the Google Drive folder below by **Thursday May 4 at 3:30 pm**.
+
+[📁 **Link to upload your video** ⬆️   ](https://drive.google.com/drive/folders/1qvOTZdnTDGpRe1LwbcnfEm1wr_uUDZ9H?usp=sharing)
+
+## Q&A with Panelists
+
+Following the presentation, each team will have a few minutes of Q&A time with panelists.
+
+_Each person on your team should be prepared to answer questions_. Decide ahead of time who will take what type of questions.
+
+### Q&A Prep
+
+You should be prepared to answer questions about the technical implementation of your application, about how you envision it being used and the user needs it addresses, and about ways you might develop it in the future.
 
 Examples questions being given to the panelists include:
 
@@ -116,3 +118,13 @@ Do not feel compelled to confess that you don't know something and DO NOT APOLOG
 **All you have to do is express interest in the question, which shows you are a curious and undaunted continual learner, and keep the conversation going!**
 
 Example: _"Oh, that's an interesting question. The way we thought about [that broad issue] in our app is...[insert something you are prepared to talk about]."_
+
+## A Sample of Previous Final Presentations
+
+Watch for examples of how the show runs and how previous teams handled their presentations and Q&A.
+
+- [March 2023](https://us02web.zoom.us/rec/share/Fm3SSbqVkglll1j8PVb0Ti56tFQ0OpBEczoAhQTRyHXTuSwY999h8Li60YoaMkY9.IQL3JSACP-S1DThZ) Passcode: 4KB^f5$w
+- [October 2022](https://us02web.zoom.us/rec/share/K_nuNEjNm1xysBMxm-mCQooyjA2GO6oSa9VNlkyE36n4ARODaieAcQcySGnYKpoZ.XO_2oalBqEOqux77?startTime=1666972872000) Passcode: 8Gtd#jS!
+- [September 2022](https://us02web.zoom.us/rec/share/W3hu_wwwFWmD8tRVyXg0e8Om05mTN67gCpoYFyZdyw0cTaP8BWzDhDQuxCB7l5vc.DpKKulWOhnPfXPxa) Passcode: @lT=iR=3
+- [May 2022](https://us02web.zoom.us/rec/share/XCq7Xv5pmrIJ4YMIYOQ8ytSQ1lQRBYzepYb8o7HzpDWZApzETI0VYKVRJBGznoqM.9DUr9Vq74zZ_PXeT) Passcode: 0Hd0m#&J
+- [February 2022](https://us02web.zoom.us/rec/share/VtFkp6vJztn3cRbqX-rBRgoLov8rbT6R6v5-OwcNnn2YzdAtfNeY73PmV5yk.ChlY_xtilCowZZQI) Passcode: tz&M7t&s
