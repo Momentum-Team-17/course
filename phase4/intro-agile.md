@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 1
-published: false
+published: true
 ---
 
 Your goal in this phase is to design and build a real-world software product, working collaboratively on a small team using agile development practices and all the tools you've learned so far, and some you will learn as you go.
@@ -16,10 +16,10 @@ The experience of working on a team during this phase and the product you build 
 
 **You will not begin writing code for your project until all the planning is done.**
 
-## 🎯 Learning Objectives & Agenda
+## 🎯 Objectives
 
 - What is agile development?
-- Forming final project groups
+- Forming final project teams
 - Brainstorming product ideas
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
@@ -29,9 +29,8 @@ The experience of working on a team during this phase and the product you build 
 
 ## 📽️ Slides
 
-- [Phase Overview slides](https://drive.google.com/file/d/12mWBm_sjzHJctFRV39vbJgvyY6OhYVAU/view?usp=share_link)
+- [Phase Overview slides](https://drive.google.com/file/d/1I2Gxyds45Hn83G27Z065nx7A1HZLb39y/view?usp=share_link)
 - [Agile slides](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=share_link)
-- [Idea slides](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=share_link)
 
 ## 🔖 References
 
