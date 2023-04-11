@@ -5,10 +5,10 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 2
-published: false
+published: true
 ---
 <!-- markdownlint-disable no-trailing-punctuation -->
-## 🎯 Learning Objectives & Agenda
+## 🎯 Objectives
 
 - Pitching and refining your product idea
 - Thinking about features and beginning to think about implementation
@@ -25,13 +25,13 @@ Listen to industry professionals talk about the complex business of creating sof
 
 Use these slides to guide your team discussions today.
 
-- [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
+- [Product Roadmap Slides](https://drive.google.com/file/d/19g0YwyHjPiFr9WAsiboc0ZgTmzfEAVGc/view?usp=sharing)
 
 ## 🔖 References
 
 - [Agile Basics][agile-101]
 - [MVP and Team Formation][agile-practices]
 - [Idea Generation][idea-generation] _Included here are links to technical resources that may be helpful to you as you talk about implementation._
-- [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
+- [Product Roadmap Slides](https://drive.google.com/file/d/19g0YwyHjPiFr9WAsiboc0ZgTmzfEAVGc/view?usp=sharing)
 
 {% include reference_links.md %}
