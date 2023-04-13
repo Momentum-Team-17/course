@@ -83,7 +83,7 @@ layout: resource_list
 ## User Flows
 
 - [User Flows](https://www.productplan.com/glossary/user-flow/)
-- - [Designing User Flows](https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/)
+- [Designing User Flows](https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/)
 - [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 - [Creating Perfect User Flows for Smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/)
 
