@@ -8,11 +8,9 @@ nav_order: 6
 published: true
 ---
 
-## Daily Scrum and Check-Ins
+## April 17 - May 2
 
-### April 10 - May 2
-
-_All times in EST._ 
+_All times in EST._
 _All meetings in the regular Zoom unless otherwise noted._
 
 ### Daily Scrum
@@ -31,7 +29,7 @@ _All meetings in the regular Zoom unless otherwise noted._
 - The first check-in will be on **Monday April 17**.
 - Check-ins are scheduled for 60 minutes as follows on Mondays and Thursdays until March 6.
     - @10:30-11:30 am Team 🍔
-    - @1:30-2:30 pm Team 🍟
+    - @11:30-12:30 pm Team 🍟
 
 - **All-Team Low-Key Demo Friday April 28 @11:00 am**
     - All teams meet together to show each other what you have been working on and get feedback and support from peers.
