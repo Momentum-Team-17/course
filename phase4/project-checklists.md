@@ -25,7 +25,7 @@ Skim the following checklists to make sure you're ready.
 - First tasks are queued in _Current Sprint_.
 - You have [created a team organization on GitHub](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) and added every team member.
 - You have created your project repo or repos on GitHub and made sure everyone is added as a collaborator.
-    -A `.gitignore` file is in your repo. You can get one that is specific to your project at [gitignore.io](https://www.toptal.com/developers/gitignore). Even more handy: use this [VS Code extension](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore).
+    - A `.gitignore` file is in your repo. You can get one that is specific to your project at [gitignore.io](https://www.toptal.com/developers/gitignore). Even more handy: use this [VS Code extension](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore).
     - Pin GitHub links at the top of your Slack channel.
 - Your team is clear on the Git and GitHub workflow and process for managing pull requests.
 - **Consider appointing a team lead** who can be responsible for running meetings, leading at check-in, and looking after the Trello board. Even better: rotate this role to share the responsibility.
